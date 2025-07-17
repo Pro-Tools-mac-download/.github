@@ -21,10 +21,10 @@
 
 🖼 **Preview**
 
-![Pro Tools Pitch and Time Editing](https://www.avid.com/_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Favidtech-d6a2e9a9%2Fmedia%2Fimages%2Fpro-tools%2Fpro_tools_pitch_and_time_editing.jpg%3Fh%3D600%26iar%3D0%26w%3D1000&w=3840&q=75)  
+![Pro Tools Pitch and Time Editing](https://i.ytimg.com/vi/ato2csqPFC0/maxresdefault.jpg)  
 
 
-![Pro Tools Screenshot](https://static.macupdate.com/screenshots/339987/m/pro-tools-screenshot.webp?v=1659118357)  
+ 
 
 
 ![Pro Tools Mac Pro](https://cdn.rekkerd.org/wp-content/uploads/2017/12/Avid-Pro-Tools-Mac-Pro.jpg)  
